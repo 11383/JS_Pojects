@@ -1,0 +1,15 @@
+[submodule "Sebastian Sędzik lab4/BallInHole"]
+	path = Sebastian Sędzik lab4/BallInHole
+	url = https://github.com/11383/gameHole.git
+[submodule "Sebastian Sędzik lab4/CatchMeIfYouCan"]
+	path = Sebastian Sędzik lab4/CatchMeIfYouCan
+	url = https://github.com/11383/WebSocket.git
+[submodule "Sebastian Sędzik lab4/Notes"]
+	path = Sebastian Sędzik lab4/Notes
+	url = https://github.com/11383/Notes.git
+[submodule "Sebastian Sędzik lab4/PhotoEditor"]
+	path = Sebastian Sędzik lab4/PhotoEditor
+	url = https://github.com/11383/canvas-photo-editor
+[submodule "Sebastian Sędzik lab4/SoundKit"]
+	path = Sebastian Sędzik lab4/SoundKit
+	url = https://github.com/11383/soundKit.git
